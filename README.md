@@ -61,5 +61,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgments
 
 Special thanks to the creators of the SFML library and the contributors to the backtracking algorithm implementation used in this project.
-
+![download](https://github.com/ahmedshihab809/Sudkou/assets/57572719/e1da7dba-23c3-4389-b36a-5177ddea86e3)
+![maxresdefault (1)](https://github.com/ahmedshihab809/Sudkou/assets/57572719/79e617cd-7655-4d2a-93ef-7836b53f8ff0)
 ![pLxz516j8ll3ju3954kcmpCraYlq083vCVHvEiyNVmo](https://github.com/ahmedshihab809/Sudkou/assets/57572719/1819fc58-d649-4310-abcc-efffa555a3e7)
