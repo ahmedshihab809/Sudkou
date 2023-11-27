@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\projects\Sudoku\Sudoku\Source.cpp(11,26): error C2276: '!': illegal operation on bound member function expression
